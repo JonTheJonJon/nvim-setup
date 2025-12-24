@@ -12,7 +12,7 @@ return {
         copilot = {
             -- You can usually use "gpt-4o" or "claude-3.5-sonnet" here depending on your GitHub subscription tier.
             -- If one doesn't work, try the other.
-            model = "gpt-4o",
+            model = "claude-3.5-sonnet",
 
             -- Recommended settings for best results
             temperature = 0,
